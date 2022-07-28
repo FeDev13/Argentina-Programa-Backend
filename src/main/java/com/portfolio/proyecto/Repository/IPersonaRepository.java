@@ -1,5 +1,5 @@
 
-package com.portfolio.proyecto.Interface;
+package com.portfolio.proyecto.Repository;
 
 import com.portfolio.proyecto.Entity.Persona;
 import org.springframework.data.jpa.repository.JpaRepository;

@@ -3,7 +3,7 @@ package com.portfolio.proyecto.Service;
 
 import com.portfolio.proyecto.Entity.Persona;
 import com.portfolio.proyecto.Interface.IPersonaInterface;
-import com.portfolio.proyecto.Interface.IPersonaRepository;
+import com.portfolio.proyecto.Repository.IPersonaRepository;
 import java.util.List;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
