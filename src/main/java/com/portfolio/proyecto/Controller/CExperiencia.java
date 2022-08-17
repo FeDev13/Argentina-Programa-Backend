@@ -26,7 +26,7 @@ import org.apache.commons.lang3.StringUtils;
 
 @RestController
 @RequestMapping("/explab")
-@CrossOrigin(origins = "http://localhost:4200")
+@CrossOrigin(origins = "https://portfoliofedericorobledo.web.app/")
 public class CExperiencia {
   
     @Autowired
