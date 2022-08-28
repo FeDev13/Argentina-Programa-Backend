@@ -35,7 +35,7 @@ public class dtoSkills {
         return descripcionS;
     }
 
-    public void setDescripcionE(String descripcionS) {
+    public void setDescripcionS(String descripcionS) {
         this.descripcionS = descripcionS;
     }
 }
